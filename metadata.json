@@ -1,0 +1,7 @@
+{
+  "name": "SonicPolish AI V1",
+  "description": "Professional-grade audio enhancement suite using AI to remaster vocals and instrumentals with zero compression artifacts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
